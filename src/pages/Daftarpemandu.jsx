@@ -1,6 +1,6 @@
 import Navbarcomponent from "../Component/Fragments/Navbarwisata";
 import Footercomponent from "../Component/Fragments/Footercomponent";
-import Daftarpemanduimg from "../assets/img/pemandu/Daftarpemanduimg.png";
+import Daftarpemanduimg from "../assets/img/pemandu/daftarpemanduimg.png";
 
 const Daftarpemandu = () => {
   return (
